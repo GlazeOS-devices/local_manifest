@@ -10,7 +10,7 @@
     <project path="device/motorola/condor" name="GlazeOS-devices/GlazeOS-devices/device_motorola_condor" remote="github" revision="ng7.1" />
     
     <!-- kernel -->
-    <project path="kernel/motorola/msm8226" name="LineageOS/android_kernel_motorola_msm8226" remote="github" revision="cm-14.1" />
+    <project path="kernel/motorola/msm8226" name="CarlosArriagaCM/android_kernel_motorola_msm8226" remote="github" revision="cm-14.1" />
     <project path="kernel/motorola/msm8610" name="LineageOS/android_kernel_motorola_msm8610" remote="github" revision="cm-14.1" />
     
     <!-- vendor -->
