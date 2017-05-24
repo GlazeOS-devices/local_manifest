@@ -1,4 +1,4 @@
-GlazeOS for Xiaomi Devices
+GlazeOS for Coolpad Devices
 ==========================
 
 Initializing:
@@ -17,7 +17,7 @@ To initialize your local repository using the Turbo ROM trees, use this command:
 
 Also add the local manifests:
 
-	git clone https://github.com/GlazeOS-devices/local_manifest -b xiaomi .repo/local_manifests
+	git clone https://github.com/GlazeOS-devices/local_manifest -b coolpad .repo/local_manifests
 
 Then sync up with this command:
 
